@@ -1,5 +1,6 @@
  https://www.cssfontstack.com/ - шрифты
-        https://cloudconvert.com/font-converter
-        https://caniuse.com/?search=woff
-        https://fonts.google.com/
-        https://fontawesome.com/start
+ https://cloudconvert.com/font-converter
+ https://caniuse.com/
+ https://fonts.google.com/
+ https://fontawesome.com/start
+ https://flatuicolors.com/
